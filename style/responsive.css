@@ -1,0 +1,26 @@
+@media (max-width: 1024px){
+    .insta-wrapper{
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px){
+    .insta-phone{
+        display: none;
+    }
+    .insta-continue{
+        width: 100%;
+    }
+    .group{
+        border: none;
+        background-color: rgb(243, 243, 243);
+    }
+}
+
+@media (max-width: 355px){
+    .app-download{
+        width: 3.1rem;
+        background-position: left;
+        border-radius: 4px;
+    }
+}
